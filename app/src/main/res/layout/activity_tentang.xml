@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_screen2"
+    tools:context=".TentangActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TOEIC"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/slide_title"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="50dp"
+        android:layout_centerHorizontal="true">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:background="@drawable/logo" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/deskripsi"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp"/>
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="500dp"
+                android:layout_gravity="center"
+                android:background="@drawable/about1" />
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="500dp"
+                android:layout_gravity="center"
+                android:background="@drawable/about2" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

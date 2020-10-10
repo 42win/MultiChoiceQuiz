@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_wrong_answer"
+        android:title="Wrong Answer"
+        android:actionLayout="@layout/rectangle_text_view"
+        app:actionLayout="@layout/rectangle_text_view"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_finish_game"
+        android:title="Finish Test"
+        android:icon="@drawable/ic_check_white_24dp"
+        app:showAsAction="always"/>
+</menu>

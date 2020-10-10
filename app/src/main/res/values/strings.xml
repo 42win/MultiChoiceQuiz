@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">TOEIC</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deskripsi">
+        TOEIC (Test of English for International Communication) adalah tes kemahiran Bahasa Inggris bagi orang-orang yang bahasa aslinya bukan Bahasa Inggris. Skor tes TOEIC menunjukkan seberapa baik orang dapat berkomunikasi dalam Bahasa Inggris dengan orang lain pada lingkungan kerja global. Tes tersebut tidak memerlukan pengetahuan atau kosakata khusus, tes ini hanya mengukur jenis bahasa Inggris yang dipakai dalam aktivitas sehari-hari
+        Listening and Reading TOEIC berlangsung selama dua jam [45 menit untuk Listening, dan 75 menit untuk Reading. TOEIC terdiri dari 200 soal pilihan ganda yang dibagi secara merata antara sesi Listening dan sesi Reading.
+        Skor ditentukan oleh jumlah pertanyaan yang dijawab dengan benar. Jumlah respon yang benar pada bagian listening and reading test dikonversikan ke suatu angka pada sebuah skala 5 hingga 495. Dengan menjumlahkan kedua sesi tersebut maka akan diperoleh skor total berdasarkan skala yang berkisar dari 10 hingga 990. Tidak ada pengurangan bagi jawaban yang salah.
+
+    </string>
+    <string name="deskripsi1">FARADIBA FAHNUN PUTRI \n 1529041037 \n PRODI PENDIDIKAN TEKNIK INFORMATIKA dan KOMPUTER \n JURUSAN PENDIDIKAN TEKNIK ELETKRO \n FAKULTAS TEKNIK \n UNIVERSITAS NEGERI MAKASSAR \n 2019</string>
+    <string name="tips">
+        a)	Perhatikan penggunaan waktu dalam setiap sesi soal\n
+        b)	Untuk soal tertentu kerjakan soal yang lebih mudah lebih dahulu\n
+        c)	Lebih teliti dengan kata-kata yang hampir sama\n
+        d)	Usahakan untuk tetap tenang dan fokus\n
+        e)	Manfaatkan waktu dengan maksimal\n
+        f)	Koreksi kembali jawaban\n
+        g)	Selalu berlatih mengerjakan soal tes TOEIC\n
+        h)	Perbanyak baca buku Berbahasa Inggris\n
+        i)	Gunakan Bahasa Inggris dalam percakapan sehari-hari\n
+        j)	Rajin nonton film Bahasa Inggris\n
+        k)	Rajin dengar lagu Bahasa Inggris\n
+</string>
+</resources>
